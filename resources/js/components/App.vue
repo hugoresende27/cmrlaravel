@@ -1,7 +1,10 @@
 <template>
     <div class="mcontainer">
 
-        <body-component>        </body-component>
+        <body-component>    
+            
+        
+            </body-component>
 
     </div>
 </template>

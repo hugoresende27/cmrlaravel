@@ -8,13 +8,14 @@
 
         <div id="app">
 
-            <example-component></example-component>
+            <app-component></app-component>
 
         </div>
 
        
 
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/styles.scss') }}">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
